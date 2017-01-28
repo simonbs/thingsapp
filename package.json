@@ -1,0 +1,19 @@
+{
+  "name": "thingsapp",
+  "version": "0.1.0",
+  "description": "Add todos in Things.app",
+  "main": "index.js",
+  "keywords": [
+    "things",
+    "cultured",
+    "code",
+    "todo"
+  ],
+  "author": "Simon B. Støvring",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "request": "^2.79.0",
+    "uuid": "^3.0.1"
+  }
+}
