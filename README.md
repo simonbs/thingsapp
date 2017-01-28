@@ -4,7 +4,7 @@ Node module for creating todos in Things.app by Cultured Code.
 
 ## Installation
 
-Install using `npm install --save git+ssh://git@github.com/simonbs/things.git`.
+Install using `npm install --save git+ssh://git@github.com/simonbs/thingsapp.git`.
 
 ## Usage
 
