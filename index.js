@@ -26,7 +26,10 @@ Things.prototype.createTodo = function(todo, callback) {
           'Content-Type': 'application/json; charset=UTF-8',
           'Content-Encoding': 'UTF-8'
         }
-      }, callback)
+      },
+      function(err, httpResponse, body) {
+        callback(err)
+      })
     })
   })
 }
