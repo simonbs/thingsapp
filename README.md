@@ -20,7 +20,7 @@ In above request, `THIS-IS-YOUR-ACCOUNT-ID` is your account ID and your start in
 
 When you have acquired both your account ID and your start index you can use the thingsapp module as shown below.
 
-```
+```javascript
 var todo = {
   title: 'Pack for vacation',
   note: 'GoPro, selfiestick, MacBook charger and tickets'
